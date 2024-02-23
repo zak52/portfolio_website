@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/portfolio_website/static/css/main.1b9363fb.css",
-    "main.js": "/portfolio_website/static/js/main.83ff9f2f.js",
+    "main.css": "/portfolio_website/static/css/main.163b1a2d.css",
+    "main.js": "/portfolio_website/static/js/main.91b213b8.js",
     "static/media/Zach_Kaufman_Resume_PDF.pdf": "/portfolio_website/static/media/Zach_Kaufman_Resume_PDF.d7976fe7d3c04d24ae50.pdf",
     "static/media/portfolioLogo.png": "/portfolio_website/static/media/portfolioLogo.0f8f67cdc5434b4b6037.png",
     "index.html": "/portfolio_website/index.html",
     "static/media/school.svg": "/portfolio_website/static/media/school.a41655f6d5350015803153c7410cef6a.svg",
     "static/media/work.svg": "/portfolio_website/static/media/work.3710b62484ed638074240e99317c6c60.svg",
-    "main.1b9363fb.css.map": "/portfolio_website/static/css/main.1b9363fb.css.map",
-    "main.83ff9f2f.js.map": "/portfolio_website/static/js/main.83ff9f2f.js.map"
+    "main.163b1a2d.css.map": "/portfolio_website/static/css/main.163b1a2d.css.map",
+    "main.91b213b8.js.map": "/portfolio_website/static/js/main.91b213b8.js.map"
   },
   "entrypoints": [
-    "static/css/main.1b9363fb.css",
-    "static/js/main.83ff9f2f.js"
+    "static/css/main.163b1a2d.css",
+    "static/js/main.91b213b8.js"
   ]
 }
