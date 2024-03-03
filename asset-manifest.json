@@ -1,17 +1,23 @@
 {
   "files": {
-    "main.css": "/portfolio_website/static/css/main.163b1a2d.css",
-    "main.js": "/portfolio_website/static/js/main.91b213b8.js",
+    "main.css": "/portfolio_website/static/css/main.bad57684.css",
+    "main.js": "/portfolio_website/static/js/main.435c64b6.js",
+    "static/media/GeoStacAsset.png": "/portfolio_website/static/media/GeoStacAsset.e8fe9d8e5c6ee03fbca5.png",
+    "static/media/about_me.jpeg": "/portfolio_website/static/media/about_me.14828ec8007e4ede8b84.jpeg",
+    "static/media/TicTacToeAsset.png": "/portfolio_website/static/media/TicTacToeAsset.00c388accd12ce5910f6.png",
+    "static/media/OS_simulator.png": "/portfolio_website/static/media/OS_simulator.bd608867e6ed112419bf.png",
+    "static/media/calendarAppAsset.png": "/portfolio_website/static/media/calendarAppAsset.1b9931ff047dd1f5f747.png",
     "static/media/Zach_Kaufman_Resume_PDF.pdf": "/portfolio_website/static/media/Zach_Kaufman_Resume_PDF.d7976fe7d3c04d24ae50.pdf",
+    "static/media/maze-make-it-difficult3.jpeg": "/portfolio_website/static/media/maze-make-it-difficult3.e12689ac9f9c90592c7c.jpeg",
     "static/media/portfolioLogo.png": "/portfolio_website/static/media/portfolioLogo.0f8f67cdc5434b4b6037.png",
     "index.html": "/portfolio_website/index.html",
     "static/media/school.svg": "/portfolio_website/static/media/school.a41655f6d5350015803153c7410cef6a.svg",
     "static/media/work.svg": "/portfolio_website/static/media/work.3710b62484ed638074240e99317c6c60.svg",
-    "main.163b1a2d.css.map": "/portfolio_website/static/css/main.163b1a2d.css.map",
-    "main.91b213b8.js.map": "/portfolio_website/static/js/main.91b213b8.js.map"
+    "main.bad57684.css.map": "/portfolio_website/static/css/main.bad57684.css.map",
+    "main.435c64b6.js.map": "/portfolio_website/static/js/main.435c64b6.js.map"
   },
   "entrypoints": [
-    "static/css/main.163b1a2d.css",
-    "static/js/main.91b213b8.js"
+    "static/css/main.bad57684.css",
+    "static/js/main.435c64b6.js"
   ]
 }
